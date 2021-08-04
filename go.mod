@@ -1,3 +1,3 @@
-module github.com/sony/sonyflake
+module github.com/hengsok/sonyflake
 
 go 1.13
